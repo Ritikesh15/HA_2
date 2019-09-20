@@ -1,0 +1,85 @@
+.a
+{
+	text-align: center;
+	background-color: rgba(0,0,0,0.7);
+	width:80%;
+	border: 50px rgb(255,0,0);
+	border-collapse: collapse;
+}
+a:link {
+  color: white; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color:rgb(153, 255, 153);
+  background-color: transparent;
+}
+.qe
+{
+	position: relative;
+	top:40px;
+	  text-decoration: underline wavy blue;
+	text-align: center;
+	color:rgb(0,0,0);
+	font-size:240%;
+}
+.qw
+{
+	position: relative;
+	top: 50px;
+	text-align: center;
+	color: rgb(0, 102, 204);
+	font-size:150%;
+}
+.qr
+{
+	position: relative;
+	top:60px;
+	  text-decoration: underline wavy blue;
+	text-align: center;
+	color:rgb(0,0,0);
+	font-size:240%;
+}
+.qt
+{
+	position: relative;
+	top: 70px;
+	text-align: center;
+	color:rgb(0, 102, 204);
+	font-size:150%;
+}
+.qy
+{
+	position: relative;
+	top:80px;
+	  text-decoration: underline wavy blue;
+	text-align: center;
+	color: rgb(0,0,0);
+	font-size:240%;
+}
+.qu
+{
+	position: relative;
+	top: 90px;
+	text-align: center;
+	color:rgb(0, 102, 204);
+	font-size:150%;
+}
+body
+{
+	background-image: url('hob4.jpg');
+	background-size:cover;
+	background-repeat: no-repeat;
+
+}
+
+
+
+  

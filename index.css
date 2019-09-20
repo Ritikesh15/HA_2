@@ -1,0 +1,39 @@
+body
+{
+	
+	background-image: url("nature2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.a
+{
+	text-align: center;
+	background-color: rgba(0,0,0,0.7);
+	width:80%;
+	border: 50px rgb(255,0,0);
+	border-collapse: collapse;
+}
+.sc
+{
+	font-size:150%;
+	position: relative;
+	top:100px;
+	background-color: rgba(255,255,255,0.6);
+}
+
+a:link {
+  color: white; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color:rgb(153, 255, 153);
+  background-color: transparent;
+}
